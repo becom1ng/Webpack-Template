@@ -93,7 +93,7 @@
     "wildcard": "^2.0.1"
   },
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "author": "Ryan Lavery",
   "license": "MIT"
